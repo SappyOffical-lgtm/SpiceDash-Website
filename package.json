@@ -1,0 +1,14 @@
+{
+  "name": "spicedash",
+  "version": "1.0.0",
+  "description": "SpiceDash food delivery site with server-side pricing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
